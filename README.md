@@ -1,19 +1,39 @@
-## Previews of my desktop
-
-### You can find all of my wallpapers **[HERE](https://github.com/ilyamiro/shell-wallpapers)**.
-
-#### Update 30.03.26
-As of now, due to an increased demand, I am working on installation scripts. The first version will be out in the span of the next 7 days. Thank you for your support!
+based on [ilyamiro](https://github.com/ilyamiro)'s rice
 
 ---
 
-![preview1](previews/screenshot1.png)
-![preview2](previews/screenshot2.png)
-![preview6](previews/screenshot6.png)
-![preview4](previews/screenshot4.png)
-![preview7](previews/screenshot7.png)
-![preview4](previews/screenshot5.png)
-![preview1_2](previews/screenshot1_3.png)
-![preview1_1](previews/screenshot1_1.png)
-![preview9](previews/screenshot9.png)
-![preview3](previews/screenshot3.png)
+![](previews/screenshot1.png)
+![](previews/screenshot2.png)
+![](previews/screenshot6.png)
+![](previews/screenshot4.png)
+![](previews/screenshot7.png)
+![](previews/screenshot5.png)
+![](previews/screenshot1_3.png)
+![](previews/screenshot1_1.png)
+![](previews/screenshot9.png)
+![](previews/screenshot3.png)
+
+---
+
+| key | action |
+|-----|--------|
+| SUPER + D | rofi launcher |
+| ALT + TAB | rofi window switcher |
+| SUPER + F | firefox |
+| SUPER + T | telegram |
+| SUPER + O | obsidian |
+| SUPER + SHIFT + C | clipboard history |
+| SUPER + A | notifications |
+| SUPER + L | lock |
+| SUPER + SPACE | play/pause |
+| SUPER + SHIFT + F | float toggle |
+| Print | screenshot |
+| SHIFT + Print | screenshot + edit |
+| SUPER + CTRL + arrows | move window |
+| SUPER + SHIFT + arrows | resize window |
+| SUPER + W | wallpaper picker |
+| SUPER + N | network / bluetooth |
+| SUPER + B | battery |
+| SUPER + U | music / eq |
+| SUPER + SHIFT + T | focus timer |
+| SUPER + SHIFT + SPACE | monitor manager |
