@@ -1,5 +1,5 @@
 based on [ilyamiro](https://github.com/ilyamiro)'s rice
-
+changed from nix to cachy :D
 ---
 
 ![](previews/screenshot1.png)
@@ -25,7 +25,7 @@ based on [ilyamiro](https://github.com/ilyamiro)'s rice
 | SUPER + SHIFT + C | clipboard history |
 | SUPER + A | notifications |
 | SUPER + L | lock |
-| SUPER + SPACE | play/pause |
+| SUPER + SPACE | play/pause |N
 | SUPER + SHIFT + F | float toggle |
 | Print | screenshot |
 | SHIFT + Print | screenshot + edit |
